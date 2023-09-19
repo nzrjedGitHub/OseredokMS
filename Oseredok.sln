@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oseredok.Application", "Oseredok.Application\Oseredok.Application.csproj", "{4DB2F412-B83F-42B3-87C2-56B3FF490A7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oseredok.Contracts", "Oseredok.Contracts\Oseredok.Contracts.csproj", "{08882EEB-8011-4D3B-B3CF-84E11656C5A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oseredok.Domain", "Oseredok.Domain\Oseredok.Domain.csproj", "{951FE11E-D866-47BC-9C9B-FF319819D7EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oseredok.Infrastructure", "Oseredok.Infrastructure\Oseredok.Infrastructure.csproj", "{05E6F9C1-EF4E-435A-B752-E079763C72D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oseredok.Api", "Oseredok.Api\Oseredok.Api.csproj", "{8E069509-9A73-4D67-A6A7-07E33417B982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oseredok.Shared", "Oseredok.Shared\Oseredok.Shared.csproj", "{7A0F5885-9B41-499A-B0AA-D93BEE4FF66A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB2F412-B83F-42B3-87C2-56B3FF490A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB2F412-B83F-42B3-87C2-56B3FF490A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB2F412-B83F-42B3-87C2-56B3FF490A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB2F412-B83F-42B3-87C2-56B3FF490A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08882EEB-8011-4D3B-B3CF-84E11656C5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08882EEB-8011-4D3B-B3CF-84E11656C5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08882EEB-8011-4D3B-B3CF-84E11656C5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08882EEB-8011-4D3B-B3CF-84E11656C5A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951FE11E-D866-47BC-9C9B-FF319819D7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951FE11E-D866-47BC-9C9B-FF319819D7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951FE11E-D866-47BC-9C9B-FF319819D7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951FE11E-D866-47BC-9C9B-FF319819D7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05E6F9C1-EF4E-435A-B752-E079763C72D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E6F9C1-EF4E-435A-B752-E079763C72D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E6F9C1-EF4E-435A-B752-E079763C72D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E6F9C1-EF4E-435A-B752-E079763C72D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E069509-9A73-4D67-A6A7-07E33417B982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E069509-9A73-4D67-A6A7-07E33417B982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E069509-9A73-4D67-A6A7-07E33417B982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E069509-9A73-4D67-A6A7-07E33417B982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A0F5885-9B41-499A-B0AA-D93BEE4FF66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0F5885-9B41-499A-B0AA-D93BEE4FF66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0F5885-9B41-499A-B0AA-D93BEE4FF66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0F5885-9B41-499A-B0AA-D93BEE4FF66A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {195B989D-08E9-4F6E-80EE-BD67F968B3E9}
+	EndGlobalSection
+EndGlobal
